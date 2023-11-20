@@ -1,5 +1,5 @@
 <h1> e-commerce-back-end </h1>
-Description
+<h2>Description</h2>
 badge
 
 The purpose of this project is to create a functional backend for a fictional e-commerce retail company that uses Sequelize to generate the schema and seeds the database with test data. A functional API is created with GET/POST/PUT and DELETE routes
