@@ -1,6 +1,7 @@
 <h1> e-commerce-back-end </h1>
 <h2>Description</h2>
-badge
+[![Build Status](https://travis-ci.org/your-username/your-repository.svg?branch=master)](https://camo.githubusercontent.com/cdb1754798a43a77b3ab0ce95feee249ef7698932a34c6b8bca6c4c353e4df3c/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6c6162656c3d6c6963656e7365266d6573736167653d49534326636f6c6f723d677265656e))
+
 
 The purpose of this project is to create a functional backend for a fictional e-commerce retail company that uses Sequelize to generate the schema and seeds the database with test data. A functional API is created with GET/POST/PUT and DELETE routes
 
