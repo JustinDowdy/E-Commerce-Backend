@@ -1,6 +1,7 @@
 <h1> e-commerce-back-end </h1>
 <h2>Description</h2>
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JustinDowdy/E-Commerce-Backend)
+[![Build Status](https://img.shields.io/travis/username/repository.svg)](https://travis-ci.org/username/repository)
+
 
 
 
