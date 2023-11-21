@@ -1,25 +1,32 @@
 <h1> e-commerce-back-end </h1>
+
 <h2>Description</h2>
-[![Build Status](https://img.shields.io/travis/username/repository.svg)](https://travis-ci.org/username/repository)
+
+[![Build Status](https://img.shields.io/travis/username/repository.svg)](https://github.com/JustinDowdy/E-Commerce-Backend)
 
 
 
 
 The purpose of this project is to create a functional backend for a fictional e-commerce retail company that uses Sequelize to generate the schema and seeds the database with test data. A functional API is created with GET/POST/PUT and DELETE routes
 
-Table of Contents
-Installation
-Usage
-License
-Questions
-Installation
-Navigate to the root of the downloaded project files and start your SQL server on your local machine by running the following commands from a cmd prompt, be sure to substitute [USERNAME] with the correct username for your SQL environment (usually root):
+# Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+<a name="installation"></a>
+## Installation
+
 
 mysql -u [USERNAME] -p
 source db/schema.sql
-Untitled_ Aug 6, 2021 3_28 PM
 
-Usage
+Navigate to the root of the downloaded project files and start your SQL server on your local machine by running the following commands from a cmd prompt, be sure to substitute 
+[USERNAME] with the correct username for your SQL environment (usually root):
+
+<a name="usage"></a>
+## Usage
+
 From the root of the file you will have to run the following to install the necessary packages and start the program:
 
 npm install
