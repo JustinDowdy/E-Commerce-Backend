@@ -1,6 +1,6 @@
 <h1> e-commerce-back-end </h1>
 <h2>Description</h2>
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/JustinDowdy/E-Commerce-Backend)
 
 
 
