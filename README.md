@@ -21,6 +21,9 @@ The purpose of this project is to create a functional backend for a fictional e-
 - mysql -u [USERNAME] -p
 - source db/schema.sql
 
+<img src="https://user-images.githubusercontent.com/83042277/128568401-b4d67332-8cba-4a8a-a2b7-0ad5e96ec626.gif" alt="Demo" width="400"/>
+
+
 Navigate to the root of the downloaded project files and start your SQL server on your local machine by running the following commands from a cmd prompt, be sure to substitute 
 [USERNAME] with the correct username for your SQL environment (usually root):
 
@@ -29,9 +32,10 @@ Navigate to the root of the downloaded project files and start your SQL server o
 
 From the root of the file you will have to run the following to install the necessary packages and start the program:
 
-npm install
-npm run seed
-npm start
+- npm install
+- npm run seed
+- npm start
+  
 Once the application is started the backend will be fully functional and will allow you to make API calls to your localhost to retrieve data.
 
 e-commerce-usage
