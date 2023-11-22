@@ -18,8 +18,8 @@ The purpose of this project is to create a functional backend for a fictional e-
 ## Installation
 
 
-mysql -u [USERNAME] -p
-source db/schema.sql
+- mysql -u [USERNAME] -p
+- source db/schema.sql
 
 Navigate to the root of the downloaded project files and start your SQL server on your local machine by running the following commands from a cmd prompt, be sure to substitute 
 [USERNAME] with the correct username for your SQL environment (usually root):
