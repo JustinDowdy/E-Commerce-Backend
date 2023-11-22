@@ -21,7 +21,7 @@ The purpose of this project is to create a functional backend for a fictional e-
 - mysql -u [USERNAME] -p
 - source db/schema.sql
 
-<img src="https://user-images.githubusercontent.com/83042277/128568401-b4d67332-8cba-4a8a-a2b7-0ad5e96ec626.gif" alt="Demo" width="400"/>
+<img src="https://user-images.githubusercontent.com/83042277/128568401-b4d67332-8cba-4a8a-a2b7-0ad5e96ec626.gif" alt="Demo" width="600"/>
 
 
 Navigate to the root of the downloaded project files and start your SQL server on your local machine by running the following commands from a cmd prompt, be sure to substitute 
